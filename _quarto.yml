@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Nick Strezo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Resume.qmd
+      - projects.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nick-strezo-7897182a3/
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2025, Nick Strezo"
+
+format:
+  html:
+    theme: cerulean
+    toc: true
+
+editor: source
+

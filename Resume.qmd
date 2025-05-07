@@ -1,0 +1,68 @@
+---
+title: "Resume"
+format: 
+  html:
+    theme: cosmo
+    toc: false
+    number-sections: false
+    css: styles.css
+    include-in-header: 
+      - text: |
+          <style>
+          h2 { border-bottom: 2px solid #000; padding-bottom: 4px; margin-top: 30px; }
+          .contact { font-size: 0.9em; margin-bottom: 1em; }
+          </style>
+---
+
+<div class="contact">
+301 26th Ave, San Mateo, CA 94403  •  (650) 431-5513  •  <a href="mailto:nickstrezo@yahoo.com">nickstrezo@yahoo.com</a>  •  LinkedIn: <a href="https://www.linkedin.com/in/nick-strezo">nick-strezo</a>
+</div>
+
+## Education
+
+### Macalester College – Saint Paul, MN  
+**Bachelor of Arts in Economics** (Minor in Data Science, Spanish)  
+*Expected Graduation:* May 2027  
+**Distinctions:**  
+- DeWitt Wallace Distinguished Scholarship (academic merit)  
+- Varsity Baseball Athlete – NCAA signed player  
+**Key Coursework:** Principles of Economics, International Economics, Accounting, Intermediate Microeconomics, Statistics, Data Science, Computer Science, Calculus, Spanish  
+
+### Hillsdale High School – San Mateo, CA  
+*Graduated:* May 2023 | GPA: 4.34/4.0  
+**Distinctions:**  
+- San Jose Mercury News All Bay Area Second Team (coach-voted, news-assessed)  
+- 4-time Distinguished Scholar Athlete Award  
+- CIF CCS Pitcher of the Year  
+
+## Experience
+
+### Stanford Athletics – Stanford, CA  
+**Baseball Camp Coach**  
+*June 2023 – August 2024 (Seasonal)*  
+- Led drills and training for youth players  
+- Designed age-appropriate activities to build skills  
+- Provided mentorship and feedback  
+- Promoted inclusivity and positive team culture  
+
+### UMC Preschool – Burlingame, CA  
+**Remodeling Assistant**  
+*May 2024 – August 2024*  
+- Participated in design and renovation tasks  
+- Enhanced safety, accessibility, and aesthetics of preschool facility  
+- Collaborated with contractors to complete improvements  
+
+### Starting Lineup Baseball – San Mateo, CA  
+**Assistant Manager**  
+*June 2019 – August 2024*  
+- Managed the facility in the owner’s absence  
+- Scheduled training sessions, practices, and rentals  
+- Handled payments and registration  
+- Promoted events and programs to increase engagement  
+- Welcomed and assisted athletes, coaches, and guests  
+
+## Skills
+
+- Proficient in Spanish (college-level)  
+- Technical: R Studio, Python  
+- Software: Microsoft Office Suite  

@@ -1,0 +1,90 @@
+---
+title: "Projects"
+---
+
+<style>
+  .tab {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 5px;
+    background-color: #f2f2f2;
+    cursor: pointer;
+    border-radius: 5px 5px 0 0;
+  }
+
+  .tab.active {
+    background-color: #d1eaff;
+    font-weight: bold;
+  }
+
+  .tab-content {
+    display: none;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-top: none;
+  }
+
+  .tab-content.active {
+    display: block;
+  }
+</style>
+
+<div>
+  <div class="tab" onclick="showTab('econ')">Econ</div>
+  <div class="tab" onclick="showTab('research')">Research</div>
+  <div class="tab" onclick="showTab('stats')">Stats</div>
+</div>
+
+<div id="econ" class="tab-content">
+  <h3>Hosting the Olympics: Examining the Economic Effects of Hosting an Event on the Global Scale</h3>
+  <p>By: Nick Strezo, Braden LaChapelle</p>
+  <embed src="TermPaper.pdf" type="application/pdf" width="100%" height="600px" />
+
+  <h3>Financial Analysis of Google</h3>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnanwAvLq_L6r0cnNwRQgNzvC5vVMNC2_AttecWSvYoa032KrfnF7bf0t5ukWpdI5wwm2OqUDLZ9RL/pubhtml" width="100%" height="600"></iframe>
+  <embed src="Accounting.pdf" type="application/pdf" width="100%" height="600px" />
+</div>
+
+<div id="research" class="tab-content">
+  <h3>Between Bases and Borders</h3>
+  <p>Research Paper about Baseball's influence on diplomacy between the United States and Cuba</p>
+  <embed src="Baseball.pdf" type="application/pdf" width="100%" height="600px" />
+</div>
+
+<div id="stats" class="tab-content">
+  <h3>Does Defense Win Championships?</h3>
+  <p>By: Anlian Krishnamurthy, Dooley Kim, Nick Strezo, Zach Liptzin</p>
+  <embed src="Final Paper.pdf" type="application/pdf" width="100%" height="600px" />
+
+  <h3>Statistical Machine Learning Clustering Project</h3>
+  <p>By: Nick Strezo, Holden Peacock, Will St. John, David Trinh</p>
+  <embed src="ClusteringProject.pdf" type="application/pdf" width="100%" height="600px" />
+  
+  <h3>Statistical Machine Learning Classification Project</h3>
+  <p>By: Nick Strezo, Justin Potts, Tor Olsson, Minghan Fan</p>
+  <embed src="Classification.pdf" type="application/pdf" width="100%" height="600px" />
+  
+  <h3>Data Science Project: An Analysis of Minnesota Intercollegiate Athletic Conference Expenditure</h3>
+  <p>By: Nick Strezo, Eric Wentz, Jake Korde</p>
+  <embed src="DataScience.pdf" type="application/pdf" width="100%" height="600px" />
+</div>
+
+<script>
+  function showTab(tabId) {
+    const tabs = document.querySelectorAll('.tab');
+    const contents = document.querySelectorAll('.tab-content');
+
+    tabs.forEach(tab => tab.classList.remove('active'));
+    contents.forEach(content => content.classList.remove('active'));
+
+    document.querySelector(`#${tabId}`).classList.add('active');
+    event.target.classList.add('active');
+  }
+
+  // Set default tab
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelector('.tab').click();
+  });
+</script>
+
+
