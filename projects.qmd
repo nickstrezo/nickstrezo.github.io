@@ -1,0 +1,90 @@
+---
+title: "Projects"
+---
+
+<style>
+  .tab {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 5px;
+    background-color: #f2f2f2;
+    cursor: pointer;
+    border-radius: 5px 5px 0 0;
+  }
+
+  .tab.active {
+    background-color: #d1eaff;
+    font-weight: bold;
+  }
+
+  .tab-content {
+    display: none;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-top: none;
+  }
+
+  .tab-content.active {
+    display: block;
+  }
+</style>
+
+<div>
+  <div class="tab" onclick="showTab('econ')">Econ</div>
+  <div class="tab" onclick="showTab('research')">Research</div>
+  <div class="tab" onclick="showTab('stats')">Stats</div>
+</div>
+
+<div id="econ" class="tab-content">
+  <h3>Hosting the Olympics: Examining the Economic Effects of Hosting an Event on the Global Scale</h3>
+  <p>By: Nick Strezo, Braden LaChapelle</p>
+  <a href="TermPaper.pdf">Paper</a>
+
+  <h3>Financial Analysis of Google</h3>
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnanwAvLq_L6r0cnNwRQgNzvC5vVMNC2_AttecWSvYoa032KrfnF7bf0t5ukWpdI5wwm2OqUDLZ9RL/pubhtml">Excel Analysis</a><br>
+  <a href="Accounting.pdf">Paper</a>
+</div>
+
+<div id="research" class="tab-content">
+  <h3>Between Bases and Borders</h3>
+  <p>Research Paper about Baseball's influence on diplomacy between the United States and Cuba</p>
+  <a href="Baseball.pdf">Paper</a>
+</div>
+
+<div id="stats" class="tab-content">
+  <h3>Does Defense Win Championships?</h3>
+  <p>By: Anlian Krishnamurthy, Dooley Kim, Nick Strezo, Zach Liptzin</p>
+  <a href="Final Paper.pdf">Paper</a>
+
+  <h3>Statistical Machine Learning Clustering Project</h3>
+  <p>By: Nick Strezo, Holden Peacock, Will St. John, David Trinh</p>
+  <a href="ClusteringProject.pdf">Paper</a>
+  
+  <h3>Statistical Machine Learning Classification Project</h3>
+  <p>By: Nick Strezo, Justin Potts, Tor Olsson, Minghan Fan</p>
+  <a href="Classification.pdf">Paper</a>
+  
+  <h3>Data Science Project: An Analysis of Minnesota Intercollegiate Athletic Conference Expenditure</h3>
+  <p>By: Nick Strezo, Eric Wentz, Jake Korde</p>
+  <a href="DataScience.pdf">Final Paper</a>
+</div>
+
+<script>
+  function showTab(tabId) {
+    const tabs = document.querySelectorAll('.tab');
+    const contents = document.querySelectorAll('.tab-content');
+
+    tabs.forEach(tab => tab.classList.remove('active'));
+    contents.forEach(content => content.classList.remove('active'));
+
+    document.querySelector(`#${tabId}`).classList.add('active');
+    event.target.classList.add('active');
+  }
+
+  // Set default tab
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelector('.tab').click();
+  });
+</script>
+
+

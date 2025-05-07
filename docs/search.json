@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! Welcome to my personal website — I’m Nick Strezo, an undergraduate student at Macalester College in St. Paul, Minnesota. I’m majoring in Economics with minors in Data Science and Spanish, and I’m also a proud member of the Macalester Baseball Team.\nOriginally from San Mateo, California, I’ve always been someone who enjoys taking on challenges, whether that’s on the baseball field or in the classroom. As a member of the Macalester College Varsity Baseball Team and a former CIF CCS Pitcher of the Year, I’ve learned the value of discipline, perseverance, and leadership in high-pressure environments. These same qualities have guided me through my academic pursuits and professional experiences.\nOutside of academics and athletics, I’ve worked in a variety of roles that have helped me grow as both a leader and a team player. From serving as an Assistant Manager at Starting Lineup Baseball where I scheduled facility operations and supported athlete development to coaching youth baseball at Stanford Athletics and contributing to preschool remodeling projects, I’ve developed a strong foundation in communication, project coordination, and community engagement.\nThrough my coursework and hands-on experiences, I’ve built skills in R, Python, statistics, and Microsoft Office, and I look forward to applying them in meaningful, real-world contexts.\nThanks for visiting my site — feel free to explore more about my background, experiences, and interests!\n\n\n\nMacalester College (St. Paul Minnesota)\n\n\nHillsdale High School (San Mateo California)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Macalester College (St. Paul Minnesota)\n\n\nHillsdale High School (San Mateo California)"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "301 26th Ave, San Mateo, CA 94403 • (650) 431-5513 • nickstrezo@yahoo.com • LinkedIn: nick-strezo"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nMacalester College – Saint Paul, MN\nBachelor of Arts in Economics (Minor in Data Science, Spanish)\nExpected Graduation: May 2027\nDistinctions:\n- DeWitt Wallace Distinguished Scholarship (academic merit)\n- Varsity Baseball Athlete – NCAA signed player\nKey Coursework: Principles of Economics, International Economics, Accounting, Intermediate Microeconomics, Statistics, Data Science, Computer Science, Calculus, Spanish\n\n\nHillsdale High School – San Mateo, CA\nGraduated: May 2023 | GPA: 4.34/4.0\nDistinctions:\n- San Jose Mercury News All Bay Area Second Team (coach-voted, news-assessed)\n- 4-time Distinguished Scholar Athlete Award\n- CIF CCS Pitcher of the Year"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\n\nStanford Athletics – Stanford, CA\nBaseball Camp Coach\nJune 2023 – August 2024 (Seasonal)\n- Led drills and training for youth players\n- Designed age-appropriate activities to build skills\n- Provided mentorship and feedback\n- Promoted inclusivity and positive team culture\n\n\nUMC Preschool – Burlingame, CA\nRemodeling Assistant\nMay 2024 – August 2024\n- Participated in design and renovation tasks\n- Enhanced safety, accessibility, and aesthetics of preschool facility\n- Collaborated with contractors to complete improvements\n\n\nStarting Lineup Baseball – San Mateo, CA\nAssistant Manager\nJune 2019 – August 2024\n- Managed the facility in the owner’s absence\n- Scheduled training sessions, practices, and rentals\n- Handled payments and registration\n- Promoted events and programs to increase engagement\n- Welcomed and assisted athletes, coaches, and guests"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nProficient in Spanish (college-level)\n\nTechnical: R Studio, Python\n\nSoftware: Microsoft Office Suite"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Econ\n\n\nResearch\n\n\nStats\n\n\n\n\nHosting the Olympics: Examining the Economic Effects of Hosting an Event on the Global Scale\n\n\nBy: Nick Strezo, Braden LaChapelle\n\nPaper\n\nFinancial Analysis of Google\n\nExcel Analysis Paper\n\n\n\nBetween Bases and Borders\n\n\nResearch Paper about Baseball’s influence on diplomacy between the United States and Cuba\n\nPaper\n\n\n\nDoes Defense Win Championships?\n\n\nBy: Anlian Krishnamurthy, Dooley Kim, Nick Strezo, Zach Liptzin\n\nPaper\n\nStatistical Machine Learning Clustering Project\n\n\nBy: Nick Strezo, Holden Peacock, Will St. John, David Trinh\n\nPaper\n\nStatistical Machine Learning Classification Project\n\n\nBy: Nick Strezo, Justin Potts, Tor Olsson, Minghan Fan\n\nPaper\n\nData Science Project: An Analysis of Minnesota Intercollegiate Athletic Conference Expenditure\n\n\nBy: Nick Strezo, Eric Wentz, Jake Korde\n\nFinal Paper"
+  }
+]
