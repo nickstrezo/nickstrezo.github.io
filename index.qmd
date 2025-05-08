@@ -27,8 +27,5 @@ Thanks for visiting my site — feel free to explore more about my background, e
 
 :::
 
- <img src="img/IMG_0310.jpeg" alt="About Me" style="width: 100%; height: auto; display: block; margin-bottom: 1em;"/>
-
-<img src="img/IMG_0338.jpeg" alt="About Me" style="width: 100%; height: auto; display: block; margin-bottom: 1em;"/>
 
 <img src="img/ba_team_25.jpeg" alt="About Me" style="width: 100%; height: auto; display: block; margin-bottom: 1em;"/>

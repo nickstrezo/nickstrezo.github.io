@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Resume.qmd
+      - resume.qmd
       - projects.qmd
     tools:
       - icon: linkedin
