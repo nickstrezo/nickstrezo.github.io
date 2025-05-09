@@ -60,7 +60,7 @@ title: "Projects"
   <p>By: Nick Strezo, Holden Peacock, Will St. John, David Trinh</p>
   <a href="ClusteringProject.pdf">Paper</a>
   
-  <h3>Statistical Machine Learning Classification Project</h3>
+  <h3>Predicting Match Outcomes in the Premier League Using In-Game Statistics</h3>
   <p>By: Nick Strezo, Justin Potts, Tor Olsson, Minghan Fan</p>
   <a href="Classification.pdf">Paper</a>
   
