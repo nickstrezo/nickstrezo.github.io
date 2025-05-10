@@ -26,7 +26,7 @@ format:
 **Distinctions:**  
 - DeWitt Wallace Distinguished Scholarship (academic merit)  
 - Varsity Baseball Athlete – NCAA signed player  
-**Key Coursework:** Principles of Economics, International Economics, Accounting, Intermediate Microeconomics, Statistics, Data Science, Computer Science, Calculus, Spanish  
+**Key Coursework:** Principles of Economics, International Economics, Accounting, Intermediate Microeconomics, Statistics, Data Science, Machine Learning,  Computer Science, Calculus, Advanced Spanish  
 
 ### Hillsdale High School – San Mateo, CA  
 *Graduated:* May 2023 | GPA: 4.34/4.0  
