@@ -8,7 +8,7 @@ about:
 
 
 ::: {#me}
-Hi! Welcome to my personal website that I built with R Studio— I'm Nick Strezo, an undergraduate student at Macalester College in St. Paul, Minnesota. I'm majoring in Economics with minors in Data Science and Spanish, and I'm also a proud member of the Macalester Baseball Team.
+Welcome to my personal website that I built with R Studio— I'm Nick Strezo, an undergraduate student at Macalester College in St. Paul, Minnesota. I'm majoring in Economics with minors in Data Science and Spanish, and I'm also a proud member of the Macalester Baseball Team.
 
 Originally from San Mateo, California, I’ve always been someone who enjoys taking on challenges, whether that’s on the baseball field or in the classroom. As a member of the Macalester College Varsity Baseball Team and a former CIF CCS Pitcher of the Year, I’ve learned the value of discipline, perseverance, and leadership in high-pressure environments. These same qualities have guided me through my academic pursuits and professional experiences.
 
