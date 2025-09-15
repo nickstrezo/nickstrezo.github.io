@@ -21,21 +21,25 @@ format:
 ## Education
 
 ### Macalester College – Saint Paul, MN  
-**Bachelor of Arts in Economics** (Minor in Data Science, Spanish)  
-*Expected Graduation:* May 2027  
+**Bachelor of Arts in Economics** (Minors in Data Science, Spanish)  
+*Expected Graduation:* May 2027 | **GPA:** 3.7/4.0  
 **Distinctions:**  
 - DeWitt Wallace Distinguished Scholarship (academic merit)  
 - Varsity Baseball Athlete – NCAA signed player  
-**Key Coursework:** Principles of Economics, International Economics, Accounting, Intermediate Microeconomics, Statistics, Data Science, Machine Learning,  Computer Science, Calculus, Advanced Spanish  
-
-### Hillsdale High School – San Mateo, CA  
-*Graduated:* May 2023 | GPA: 4.34/4.0  
-**Distinctions:**  
-- San Jose Mercury News All Bay Area Second Team (coach-voted, news-assessed)  
-- 4-time Distinguished Scholar Athlete Award  
-- CIF CCS Pitcher of the Year  
+**Key Coursework:** Principles of Economics, International Economics, Accounting, Intermediate Microeconomics, Statistics, Data Science, Machine Learning, Computer Science  
+**Professional Coursework:** California DRE Pre-Licensing Course  
 
 ## Experience
+
+### Alliance Homes – Santa Clara, CA  
+**Sales & Marketing Intern**  
+*May 2025 – August 2025*  
+- Gained hands-on experience in manufactured housing and real estate development, including construction, financing, and project management  
+- Researched market trends, analyzed pricing structures, and identified opportunities in California’s mobile home market  
+- Analyzed performance data from Google Ads, Nextdoor, and social media platforms to evaluate lead generation effectiveness  
+- Adjusted ad targeting, keywords, and budgets to improve conversion rates  
+- Enhanced website design, improved content layout, and implemented SEO strategies, increasing engagement and lead inquiries  
+- Participated in client interactions and assisted with operational and administrative tasks to improve workflow efficiency  
 
 ### Stanford Athletics – Stanford, CA  
 **Baseball Camp Coach**  
@@ -48,14 +52,14 @@ format:
 ### UMC Preschool – Burlingame, CA  
 **Remodeling Assistant**  
 *May 2024 – August 2024*  
-- Participated in design and renovation tasks  
+- Assisted with design and renovation tasks  
 - Enhanced safety, accessibility, and aesthetics of preschool facility  
 - Collaborated with contractors to complete improvements  
 
 ### Starting Lineup Baseball – San Mateo, CA  
 **Assistant Manager**  
 *June 2019 – August 2024*  
-- Managed the facility in the owner’s absence  
+- Managed facility operations in the owner’s absence  
 - Scheduled training sessions, practices, and rentals  
 - Handled payments and registration  
 - Promoted events and programs to increase engagement  
@@ -64,5 +68,5 @@ format:
 ## Skills
 
 - Proficient in Spanish (college-level)  
-- Technical: R Studio, Python  
-- Software: Microsoft Office Suite  
+- Technical: R Studio, Python, Adobe Illustrator  
+- Software: Google Analytics/Ads, Microsoft Office Suite  
