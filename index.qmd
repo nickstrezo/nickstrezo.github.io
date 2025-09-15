@@ -8,15 +8,16 @@ about:
 
 
 ::: {#me}
-Hi! Welcome to my personal website that I built with R Studio— I'm Nick Strezo, an undergraduate student at Macalester College in St. Paul, Minnesota. I'm majoring in Economics with minors in Data Science and Spanish, and I'm also a proud member of the Macalester Baseball Team.
+Hi! Welcome to my personal website that I built with R Studio. I'm Nick Strezo, an undergraduate student at Macalester College in St. Paul, Minnesota. I'm majoring in Economics with minors in Data Science and Spanish, and I'm also a proud member of the Macalester Baseball Team.
 
-Originally from San Mateo, California, I’ve always been someone who enjoys taking on challenges, whether that’s on the baseball field or in the classroom. As a member of the Macalester College Varsity Baseball Team and a former CIF CCS Pitcher of the Year, I’ve learned the value of discipline, perseverance, and leadership in high-pressure environments. These same qualities have guided me through my academic pursuits and professional experiences.
+Originally from San Mateo, California, I’ve always been someone who enjoys taking on challenges, whether that’s on the baseball field or in the classroom. As a member of the Macalester College Varsity Baseball Team, I’ve learned the value of discipline, perseverance, and leadership in high-pressure environments. These same qualities have guided me through my academic pursuits and professional experiences.
 
-Outside of academics and athletics, I’ve worked in a variety of roles that have helped me grow as both a leader and a team player. From serving as an Assistant Manager at Starting Lineup Baseball  where I scheduled facility operations and supported athlete development to coaching youth baseball at Stanford Athletics and contributing to preschool remodeling projects, I’ve developed a strong foundation in communication, project coordination, and community engagement.
+I’ve also gained hands-on experience in real estate, sales, marketing, and operations. Most recently, as a Sales & Marketing Intern at Alliance Homes, I gained exposure to the manufactured housing and real estate development industry, learning about construction processes, financing, and project management. I researched market trends, analyzed pricing structures, identified opportunities in California’s mobile home market, and evaluated lead generation effectiveness across Google Ads, Nextdoor, and social media platforms. I also adjusted ad targeting, keywords, and budget allocations to improve conversion rates, enhanced the company website by updating design and content layout, and implemented SEO strategies to increase engagement and lead inquiries. Additional experiences: coaching youth baseball at Stanford Athletics, assisting with preschool remodeling projects, and managing operations at Starting Lineup Baseball—have strengthened my teamwork, communication, and project coordination skills.
 
-Through my coursework and hands-on experiences, I’ve built skills in R, Python, statistics, and Microsoft Office, and I look forward to applying them in meaningful, real-world contexts.
+Through my coursework and professional experiences, I’ve built proficiency in R, Python, statistics, Google Analytics/Ads, and Adobe Illustrator, and I’m excited to apply these skills to meaningful, real-world challenges.
 
-Thanks for visiting my site — feel free to explore more about my background, experiences, and projects!
+Thanks for visiting my site; feel free to explore more about my background, experiences, and interests!
+
 
 ## Education
 
